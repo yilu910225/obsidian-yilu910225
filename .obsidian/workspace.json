@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "d71907ac14975f11",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e23fe268426728e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6805288eca6138d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81959d86401b8f24",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dba7ea09b1cebd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa0bb015a9c2b178",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f544b360f2553482",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2fb4b6ada4da6122",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dee1e51872a299f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec2808382ceecd2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc17facd7c4e501d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液.pdf",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液 的反向链接列表"
+            }
+          },
+          {
+            "id": "b5b9bdcb53dd8cb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液 的出链列表"
+            }
+          },
+          {
+            "id": "c2415f9cbe58cd16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e2d0dad1e36f0324",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4542f4f58b4a728b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液 的大纲"
+            }
+          },
+          {
+            "id": "9766288a23594400",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "52dc5bd56d7aa02a",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-kimi",
+              "state": {},
+              "icon": "documents",
+              "title": "kimi"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 520.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open kimi": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "copilot:Open Copilot Chat": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "6805288eca6138d5",
+  "lastOpenFiles": [
+    "CN110339081A_创新点与配方总结.md",
+    "CN117205105A维生素c .pdf",
+    "CN120051269A.pdf",
+    "上海奥利CN112891248A.md",
+    "上海奥利CN112891248A一种水油不溶性神经酰胺透明油溶液及其制备方法.pdf",
+    "乳化剂CN116083186B_槐糖脂啤酒微乳液配方总结.md",
+    "乳化剂CN116083186B - 槐糖脂啤酒.pdf",
+    "CN110339081A.md",
+    "CN110339081B.pdf",
+    "乳化剂CN102548398B.md",
+    "乳化剂CN102548398B农药.pdf",
+    "CN102548398B农药.pdf",
+    "CN113336807B槐糖脂纯化.pdf",
+    "CN109481319B.md",
+    "CN113336807B - 专利顾如.pdf",
+    "CN102548398B.md",
+    "CN104510631B.md",
+    "CN112891248A.md",
+    "CN112891248A_专利总结.md",
+    "CN112891248A.pdf",
+    "CN114948841B珍珠活性成分油溶液配方组成总结.md",
+    "CN114028272B 液晶纳米乳液配方总结.md",
+    "2026-06-22.md",
+    "CN110339081A-稳定的油溶多肽组合物.md",
+    "槐糖脂发酵后纯化专利汇总.md",
+    "CN116083186B_槐糖脂啤酒微乳液配方总结.md",
+    "FR2720941A1_专利总结.md",
+    "copilot/memory/Recent Conversations.md",
+    "ScreenShot_2026-05-28_130536_167.png",
+    "copilot/copilot-conversations/在吗？@20260622_142935.md",
+    "000总结.md",
+    "copilot/copilot-conversations/#OpenAI_你好，请介绍一下自己@20260622_132236.md",
+    "copilot/copilot-conversations/在吗？@20260615_164454.md",
+    "未命名.canvas",
+    "copilot/copilot-conversations/hi@20260622_135357.md",
+    "copilot/copilot-conversations/hi@20260622_133247.md",
+    "copilot/copilot-conversations/hi@20260622_132910.md",
+    "copilot/copilot-conversations/hi@20260622_114933.md"
+  ]
+}

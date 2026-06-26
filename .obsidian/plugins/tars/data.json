@@ -1,0 +1,47 @@
+{
+  "editorStatus": {
+    "isTextInserting": false
+  },
+  "providers": [
+    {
+      "tag": "OpenAI",
+      "vendor": "OpenAI",
+      "options": {
+        "apiKey": "sk-sNxhvms29PtFTM7Mcp4UqP0GArvgT21PqFjSYSZcUM41Aoog",
+        "baseURL": "https://api.moonshot.cn/v1",
+        "model": "moonshot-v1-8k",
+        "parameters": {}
+      }
+    }
+  ],
+  "systemTags": [
+    "System",
+    "系统"
+  ],
+  "newChatTags": [
+    "NewChat",
+    "新对话"
+  ],
+  "userTags": [
+    "User",
+    "我"
+  ],
+  "roleEmojis": {
+    "assistant": "✨",
+    "system": "🔧",
+    "newChat": "🚀",
+    "user": "💬"
+  },
+  "promptTemplates": [],
+  "enableInternalLink": true,
+  "enableInternalLinkForAssistantMsg": false,
+  "answerDelayInMilliseconds": 2000,
+  "confirmRegenerate": true,
+  "enableTagSuggest": true,
+  "tagSuggestMaxLineLength": 20,
+  "enableExportToJSONL": false,
+  "enableReplaceTag": false,
+  "enableDefaultSystemMsg": false,
+  "defaultSystemMsg": "",
+  "enableStreamLog": false
+}
