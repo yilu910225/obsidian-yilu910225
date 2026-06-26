@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 445.5
   },
   "right": {
     "id": "dee1e51872a299f1",
@@ -186,10 +186,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.5
+    "width": 690.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "obsidian-custom-frames:Open kimi": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
