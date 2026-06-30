@@ -11,10 +11,28 @@
             "id": "6805288eca6138d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "技术交底书.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "技术交底书"
+            }
+          },
+          {
+            "id": "c69f172d750f75d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术交底书.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "技术交底书"
             }
           }
         ]
@@ -90,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液.pdf",
+                "file": "技术交底书.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液 的反向链接列表"
+              "title": "技术交底书 的反向链接列表"
             }
           },
           {
@@ -109,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液.pdf",
+                "file": "技术交底书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液 的出链列表"
+              "title": "技术交底书 的出链列表"
             }
           },
           {
@@ -152,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液.pdf",
+                "file": "技术交底书.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液 的大纲"
+              "title": "技术交底书 的大纲"
             }
           },
           {
@@ -182,11 +200,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 690.5
+    "width": 690.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +226,11 @@
   },
   "active": "6805288eca6138d5",
   "lastOpenFiles": [
+    "000CN 114948841一种珍珠活性成分油溶液及其制备方法与皮肤外用剂.pdf",
+    "技术交底书.md",
+    "copilot/copilot-conversations/在吗@20260630_092555.md",
+    "CN104510631B.md",
+    "未命名",
     "CN110339081A_创新点与配方总结.md",
     "CN117205105A维生素c .pdf",
     "CN120051269A.pdf",
@@ -221,12 +245,9 @@
     "CN102548398B农药.pdf",
     "CN113336807B槐糖脂纯化.pdf",
     "CN109481319B.md",
-    "CN113336807B - 专利顾如.pdf",
     "CN102548398B.md",
-    "CN104510631B.md",
     "CN112891248A.md",
     "CN112891248A_专利总结.md",
-    "CN112891248A.pdf",
     "CN114948841B珍珠活性成分油溶液配方组成总结.md",
     "CN114028272B 液晶纳米乳液配方总结.md",
     "2026-06-22.md",
@@ -241,9 +262,6 @@
     "copilot/copilot-conversations/#OpenAI_你好，请介绍一下自己@20260622_132236.md",
     "copilot/copilot-conversations/在吗？@20260615_164454.md",
     "未命名.canvas",
-    "copilot/copilot-conversations/hi@20260622_135357.md",
-    "copilot/copilot-conversations/hi@20260622_133247.md",
-    "copilot/copilot-conversations/hi@20260622_132910.md",
-    "copilot/copilot-conversations/hi@20260622_114933.md"
+    "copilot/copilot-conversations/hi@20260622_135357.md"
   ]
 }
