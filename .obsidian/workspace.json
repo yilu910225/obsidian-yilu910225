@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FR2720941A1_专利总结.md",
+                "file": "CN110339081B_创新点与配方总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FR2720941A1_专利总结"
+              "title": "CN110339081B_创新点与配方总结"
             }
           }
         ]
@@ -184,13 +184,23 @@
               "icon": "documents",
               "title": "kimi"
             }
+          },
+          {
+            "id": "1331f9a5f2498499",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 690.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -212,20 +222,20 @@
   },
   "active": "2cc4b5fd0d35e62f",
   "lastOpenFiles": [
-    "技术交底书.md",
+    "CN110339081B.pdf",
+    "CN114028272B.md",
+    "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液.pdf",
     "FR2720941A1_专利总结.md",
+    "技术交底书.md",
     "FR2720941A1.pdf",
     "CN122005344A以油养肤 透明 - 专利顾如.pdf",
     "CN120051269A.pdf",
     "CN117205105A维生素c .pdf",
-    "CN114028272B 一种高渗透性植物油脂的液晶纳米乳液.pdf",
-    "CN114028272B.md",
     "CN113632910B发丁香酚-槐糖脂纳米乳液及其制备方法与应用.pdf",
     "CN113336807B槐糖脂纯化.pdf",
     "CN110339081B_创新点与配方总结.md",
     "CN110339081B-一种稳定的油溶多肽组合物及其制备方法和应用.pdf",
     "CN110339081B一种稳定的油溶多肽组合物及其制备方法和应用.pdf",
-    "CN110339081B.pdf",
     "CN109481319B_山茶油微纳米乳液_创新点与配方总结.md",
     "CN110339081A_创新点与配方总结.md",
     "CN109481319B.md",
