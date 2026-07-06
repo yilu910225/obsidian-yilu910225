@@ -11,16 +11,13 @@
             "id": "2cc4b5fd0d35e62f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "bases",
               "state": {
-                "file": "CN110339081B-一种稳定的油溶多肽组合物及其制备方法和应用.pdf",
-                "page": 4,
-                "left": -16,
-                "top": 130,
-                "zoom": 0.954201680672269
+                "file": "未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file-text",
-              "title": "CN110339081B-一种稳定的油溶多肽组合物及其制备方法和应用"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -198,12 +195,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,6 +220,9 @@
   },
   "active": "2cc4b5fd0d35e62f",
   "lastOpenFiles": [
+    "CN110339081B-一种稳定的油溶多肽组合物及其制备方法和应用.pdf",
+    "未命名.base",
+    "copilot/copilot-conversations/在吗@20260706_134533.md",
     "聚甘油/聚甘油-3二异硬脂酸酯_授权专利分析.docx",
     "CN110339081B_创新点与配方总结.md",
     "CN110339081B.pdf",
@@ -237,8 +236,6 @@
     "CN117205105A维生素c .pdf",
     "CN113632910B发丁香酚-槐糖脂纳米乳液及其制备方法与应用.pdf",
     "CN113336807B槐糖脂纯化.pdf",
-    "CN110339081B-一种稳定的油溶多肽组合物及其制备方法和应用.pdf",
-    "CN110339081B一种稳定的油溶多肽组合物及其制备方法和应用.pdf",
     "CN109481319B_山茶油微纳米乳液_创新点与配方总结.md",
     "CN110339081A_创新点与配方总结.md",
     "CN109481319B.md",
@@ -260,7 +257,6 @@
     "CN110339081A-稳定的油溶多肽组合物.md",
     "CN116083186B_槐糖脂啤酒微乳液配方总结.md",
     "copilot/memory/Recent Conversations.md",
-    "copilot/copilot-conversations/在吗？@20260622_142935.md",
     "未命名.canvas"
   ]
 }
