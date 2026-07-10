@@ -11,13 +11,10 @@
             "id": "2cc4b5fd0d35e62f",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -195,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -218,8 +215,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fa0bb015a9c2b178",
+  "active": "2cc4b5fd0d35e62f",
   "lastOpenFiles": [
+    "未命名.base",
     "聚甘油/CN114652708B_聚甘油-3二异硬脂酸酯_专利分析.md.sb-9a95998a-eMteUI",
     "聚甘油/CN111529431B_聚甘油-3二异硬脂酸酯_专利分析.md",
     "聚甘油/CN114432200B_聚甘油-3二异硬脂酸酯_专利总结.md",
@@ -228,7 +226,6 @@
     "聚甘油/CN108888570B_耐盐温和乳化剂专利分析.md",
     "copilot/copilot-conversations/Untitled_Chat@20260706_163542.md",
     "CN110339081B-一种稳定的油溶多肽组合物及其制备方法和应用.pdf",
-    "未命名.base",
     "copilot/copilot-conversations/在吗@20260706_134533.md",
     "聚甘油/聚甘油-3二异硬脂酸酯_授权专利分析.docx",
     "CN110339081B_创新点与配方总结.md",
