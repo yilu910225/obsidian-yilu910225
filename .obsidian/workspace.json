@@ -11,10 +11,14 @@
             "id": "2cc4b5fd0d35e62f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "技术交底书.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "技术交底书"
             }
           }
         ]
@@ -217,6 +221,8 @@
   },
   "active": "2cc4b5fd0d35e62f",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/在吗？@20260622_142935.md",
+    "000CN114948841B珍珠活性成分油溶液配方组成总结.md",
     "未命名.base",
     "聚甘油/CN114652708B_聚甘油-3二异硬脂酸酯_专利分析.md.sb-9a95998a-eMteUI",
     "聚甘油/CN111529431B_聚甘油-3二异硬脂酸酯_专利分析.md",
@@ -237,12 +243,10 @@
     "FR2720941A1.pdf",
     "CN122005344A以油养肤 透明 - 专利顾如.pdf",
     "CN120051269A.pdf",
-    "CN117205105A维生素c .pdf",
     "CN109481319B_山茶油微纳米乳液_创新点与配方总结.md",
     "CN110339081A_创新点与配方总结.md",
     "CN109481319B.md",
     "乳化剂CN102548398B.md",
-    "000CN114948841B珍珠活性成分油溶液配方组成总结.md",
     "槐糖脂发酵后纯化专利汇总.md",
     "乳化剂CN116083186B_槐糖脂啤酒微乳液配方总结.md",
     "CN104510631B.md",
